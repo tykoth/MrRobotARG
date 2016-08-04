@@ -38,6 +38,6 @@ message : `init decode sequence...five down, nine across...skip truncation...`
 
 http://irc.colo-solutions.net/
 
-## Scallion
+## Migrate (m1gr8)
 
 http://i251.bxjyb2jvda.net/index.html
