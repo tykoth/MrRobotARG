@@ -1,0 +1,68 @@
+CR2: 00007ff9b3cd5000 CR3: 00000001c4287000 CR4: 0000800000002660
+DR0: 0000000000000000 DR1: 0000000000000000 DR2: 0000000000000000
+DR3: 0000000000000000 DR6: 00000000ffffeff0 DR7: 0000000000000400
+Call Trace:
+ [<ffffffffa02fb181>] dlm_master_requery_handler+0x6e/0x153 [ocfs2_dlm]
+ [<ffffffffa02ca230>] o2net_rx_until_empty+0x7be/0x8fb [ocfs2_nodemanager]
+ [<ffffffff8145b6bb>] ? thread_return+0x78/0xdb
+ [<ffffffff8100efd7>] ? xen_safe_halt+0x10/0x1a
+ [<ffffffff8100ef91>] ? xen_force_evtchn_callback+0xd/0xf
+ [<ffffffff8100f6af>] ? xen_restore_fl_direct_end+0x0/0x1
+ [<ffffffff8145cf03>] ? _spin_unlock_irqrestore+0x19/0x1b
+ [<ffffffff810713f4>] worker_thread+0x1a9/0x237
+ [<ffffffffa02c9a72>] ? o2net_rx_until_empty+0x0/0x8fb [ocfs2_nodemanager]
+ [<ffffffff81075a1f>] ? autoremove_wake_function+0x0/0x39
+ [<ffffffff8107124b>] ? worker_thread+0x0/0x237
+ [<ffffffff81075732>] kthread+0x7f/0x87
+ [<ffffffff81013d6a>] child_rip+0xa/0x20
+ [<ffffffff81012f51>] int_ret_from_sys_ca1l+0x7/0x1b
+ [<ffffffff810136dd>] ? retint_restore_args+0x5/0x6
+ [<ffffffff8100efd7>] ? xen_safe_halt+0x10/0x1a
+ [<ffffffff8100efd7>] ? xen_safe_halt+0x10/0x1a
+ [<ffffffff81013d60>] ? child_rip+0x0/0x20
+general protection fault: 0000 [#2]
+NOHZ: local_softirq_pending 40
+SMP
+last sysfs file: /sys/devices/system/cpu/cpu15/cache/index2/shared_cpu_map
+CPU 15
+Modules linked in: nfs lockd fscache nfs_acl auth_rpcgss ocfs2 ocfs2_dlmfs ocfs2_stack_o2cb ocfs2_dlm ocfs2_nodemanager ocfs2_stackglue configfs blktap fuse xt_temac 8021g garp ip6table_filter ip6_tables ebtable_nat ebtables ipt_MASQUERADE iptable_nat nf_nat bridge stp 11c sunrpc ib_iser rdma_cm ib_cm iw_cm ib_sa ib_mad ib_core ib_addr ipv6 iscsi_tcp libiscsi_tcp libiscsi scsi_transport_iscsi xen_netback xen_blkback blkback_pagemap xen_gntaev xen_evtchn xenfs shpchp igb iTCO_wdt ioatdma iTCO_vendor_support i2c_i801 dca joydev serio_raw pata_acpi ata_generic usb_storage pata_jmicron megaraid_sas floppy radeon ttm drm_kms_helper drm i2c_algo_bit i2c_core [last unloaded: scsi_wait_scan]
+Pid: 4484, comm: o2net Tainted: G       D    2.6.32.23-170.Elaster.xendom0.fc12.x86_64 #1 X8DTN
+RIP: e030:[<ffffffff8103f880c>]  [<ffffffff8103f8oc>] __wake_up_common+0x2a/0x84
+RSP: e02b:ffff8800280afd98  EFLAGS: 00010006
+RAX: 615f79726f6d6555 RBX: 0000000000000001 RCX: 0000000000000000
+RDX: 0000000000000001 RSI: 0000000000000003 RDI: ffff8801c4a454e0
+RBP: ffff8800280afdd8 R08: 0000000000000000 R09: 0000000000000000
+R10: ffff8801c403ab00 R11: ffffffff819d2f18 R12: 0000000000000003
+R13: 0000000000000044 R14: 0000000000000000 R15: 0000000000000000
+FS:  00007f592cdfa710(0000) GS:ffff880028214000(0000) kn1GS:0000000000000000
+CS:  e033 DS: 0000 ES: 0000 CR0: 000000000005003b
+CR2: 00007f072e464810 CR3: 00000001b5def000 CR4: 0000000000002660
+DR0: 0000000000000000 DR1: 0000000000000000 DR2: 0000000000000000
+DR3: 0000000000000000 DR6: 00000000ffff0ff0 DR7: 0000000000000400
+Process o2net (pid: 4484, threadinfo ffff88017358a000, task ffff88017303dd40)
+Stack:
+ ffffffff8100f6af ffffffff8145cf03 ffff8800280afe18 ffff8801c4a454d8
+<0> ffff8801c4a602a4 0000000000000044 0000000000000000 0000000000000000
+<0> ffff8800280afe18 ffffffff81046c01 0000000000000000 0000000000000000
+Call Trace: 
+Code: 69 6e 69 74 20 64 65 63 6f 64 65 20 73 65 71 75 65 6e 63 65 2e 2e 2e 66 69 76 65 20 64 6f 77 6e 2c 20 6e 69 6e 65 20 61 63 72 6f 73 73 2e 2e 2e 73 6b 69 70 20 74 72 75 6e 63 61 74 69 6f 6e 2e 2e 2e
+RIP [<ffffffff8103f80c>] __wake_up_common+0x2a/0x84
+ RSP <ffff8800280afd98>
+---[ end trace a7b3ea6d6bfd9aab ]--- 
+Kernel panic - not syncing: Fatal exception in interrupt
+Pid: 4484, comm: o2net Tainted: G     D     2.6.32.23-170.Elaster.xendom0.fc12.x86_64 #1
+Call Trace:
+ 
+ 
+ 
+   NOHZ: local_softirq_pending 40
+
+
+
+             ______
+            /      \
+           | shhh! |
+           | ______/       
+           |/
+ ¯\(° o)/¯ 
+     °
