@@ -1,4 +1,4 @@
-# Mr Robot [ARG]
+# Mr Robot
 
 ##FSociety homepage
 https://www.fsoc.sh/
