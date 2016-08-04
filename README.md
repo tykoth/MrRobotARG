@@ -37,3 +37,7 @@ message : `init decode sequence...five down, nine across...skip truncation...`
 ## #th3g3ntl3man - Web IRC
 
 http://irc.colo-solutions.net/
+
+## Scallion
+
+http://i251.bxjyb2jvda.net/index.html
