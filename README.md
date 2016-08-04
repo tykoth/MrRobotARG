@@ -31,4 +31,5 @@ http://www.conficturaindustries.com/images/DancingBaby.gif
 message : `init decode sequence...five down, nine across...skip truncation...`
 
 **Five Down:** IMAP
+
 **Nine Across:** PRISM
