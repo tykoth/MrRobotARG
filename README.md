@@ -33,3 +33,7 @@ message : `init decode sequence...five down, nine across...skip truncation...`
 **Five Down:** IMAP
 
 **Nine Across:** PRISM
+
+## #th3g3ntl3man - Web IRC
+
+http://irc.colo-solutions.net/
