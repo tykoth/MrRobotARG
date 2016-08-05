@@ -41,7 +41,6 @@ http://irc.colo-solutions.net/
 ## Migrate (m1gr8)
 
 http://i251.bxjyb2jvda.net/index.html
-
-http://i251.bxjyb2jvda.net/jq.js [jq.js](jq.js)
-http://i251.bxjyb2jvda.net/layers.js [link](layers.js)
+[jq.js](jq.js)
+[link](layers.js)
 
