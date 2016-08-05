@@ -42,6 +42,6 @@ http://irc.colo-solutions.net/
 
 http://i251.bxjyb2jvda.net/index.html
 
-[http://i251.bxjyb2jvda.net/jq.js](MrRobot/jq.js)
-[http://i251.bxjyb2jvda.net/layers.js](MrRobot/layers.js)
+http://i251.bxjyb2jvda.net/jq.js [jq.js](jq.js)
+http://i251.bxjyb2jvda.net/layers.js [link](layers.js)
 
