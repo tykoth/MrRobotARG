@@ -6,15 +6,15 @@ https://www.fsoc.sh/
 
 **gallery**
 
-01.jpg : Rook
+01.jpg : Rook : https://www.whoismrrobot.com/fs/images/gallery/01_thumb.jpg
 
-02.gif : Pawn
+02.gif : Pawn : https://www.whoismrrobot.com/fs/images/gallery/02_thumb.jpg
 
-03.jpg : Dragon 辰
+03.jpg : Dragon 辰 : https://www.whoismrrobot.com/fs/images/gallery/04_thumb.jpg
 
-04.jpg : King
+04.jpg : King : https://www.whoismrrobot.com/fs/images/gallery/05_thumb.jpg
 
-05.jpg : Knight
+05.jpg : Knight : https://www.whoismrrobot.com/fs/images/gallery/07_thumb.jpg
 
 ##Confictura Industries Corporate Website
 
