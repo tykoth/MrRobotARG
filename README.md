@@ -54,3 +54,18 @@ Result : `Our systems, perhaps, are nothing more than an unconscious apology for
 
 [layers.js](layers.js)
 
+# TV Today BBS
+
+link : [http://i245.bxjyb2jvda.net/](http://i245.bxjyb2jvda.net/)
+
+Inspirational Images:
+
+1. [Every day is another chance to change your life.](http://i245.bxjyb2jvda.net/js/101/120/106/120/101/120/106/01__Inspiration.jpg)
+2. [Don't call it a dream. Call it a plan](http://i245.bxjyb2jvda.net/js/101/120/106/120/101/120/106/02__Inspiration.jpg)
+3. [Here's to strong women. May we praise them.  May we know them. May we be them.](http://i245.bxjyb2jvda.net/js/101/120/106/120/101/120/106/03__Inspiration.jpg)
+4. [You only fail when you stop trying.](http://i245.bxjyb2jvda.net/js/101/120/106/120/101/120/106/04__Inspiration.jpg)
+5. [Believe in yourself.](http://i245.bxjyb2jvda.net/js/101/120/106/120/101/120/106/05__Inspiration.jpg)
+6. [Sometimes it takes balls to be a woman.](http://i245.bxjyb2jvda.net/js/101/120/106/120/101/120/106/06__Inspiration.jpg)
+7. [Think positive thoughts.](http://i245.bxjyb2jvda.net/js/101/120/106/120/101/120/106/07__Inspiration.jpg)
+8. [Little girls with dreams become women with vision.](http://i245.bxjyb2jvda.net/js/101/120/106/120/101/120/106/08__Inspiration.jpg)
+
