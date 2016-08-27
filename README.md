@@ -76,3 +76,13 @@ bit.ly/2bCw4IJ
 
 `14215, 11640, 5615, 41710, 5706, 2142, 10316, 70641, 11112` => https://github.com/jduck/cve-2015-1538-1
 
+# Red WheelBarrow
+
+https://www.whoismrrobot.com/fs/images/notes/rwb.gif
+
+ISBN 182-145144-055015-012
+
+1 41 162 157 167 056 156 1451
+
+Visible Page reads : "six. page 4"
+
