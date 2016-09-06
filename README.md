@@ -30,6 +30,23 @@ http://www.conficturaindustries.com/images/DancingBaby.gif
 
 message : `init decode sequence...five down, nine across...skip truncation...`
 
+[Elliot's Notebook]()
+
+**Translation**
+
+```
+\\:[ wwx yKLM LFMNO
+ASDF Q L :) EXN _*@
+TKLMN LOL uNj fN wYNN
+rajb etc.. nyc ba na 443
+lmfao qn yzz k e :( // [ ex.
+jpn n 32 rsqash fgpng y
+asdfgkli) Nb ' (exe-) i *
+428x0101ni 238 ? _axa
+dbf \\ ec as jgggjjjj
+jjjgx en e
+```
+
 **Five Down:** IMAP
 
 **Nine Across:** PRISM
