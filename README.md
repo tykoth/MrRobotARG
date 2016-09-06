@@ -30,7 +30,7 @@ http://www.conficturaindustries.com/images/DancingBaby.gif
 
 message : `init decode sequence...five down, nine across...skip truncation...`
 
-[Elliot's Notebook]()
+[Elliot's Notebook](http://imgur.com/a/P4O0U)
 
 **Translation**
 
