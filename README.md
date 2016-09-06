@@ -47,10 +47,6 @@ dbf \\ ec as jgggjjjj
 jjjgx en e
 ```
 
-**Five Down:** IMAP
-
-**Nine Across:** PRISM
-
 ## #th3g3ntl3man - Web IRC
 
 http://irc.colo-solutions.net/
