@@ -101,3 +101,15 @@ Visible Page reads : "six. page 4"
 
 [red-wheelbarrow](http://www.red-wheelbarrow.net/internal/)
 
+
+# Commodore-64
+
+[Link](https://www.whoismrrobot.com/c64e/)
+
+Commands:
+```
+LOAD "$",8
+LIST
+lOAD "LAND OF ECODELIA",8,1
+RUN
+```
