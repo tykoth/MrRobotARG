@@ -104,7 +104,7 @@ Visible Page reads : "six. page 4"
 
 # Commodore-64
 
-[Link](https://www.whoismrrobot.com/c64e/)
+[C64E](https://www.whoismrrobot.com/c64e/)
 
 Commands:
 ```
