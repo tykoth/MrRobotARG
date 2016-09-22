@@ -131,3 +131,5 @@ http://www.conficturaindustries.com/
 [PGP Message](pgp_message)
 
 [Windows Desktop](http://i247.bxjyb2jvda.net/)
+
+[~D0loresH4ze/tools](http://i246.bxjyb2jvda.net/)
