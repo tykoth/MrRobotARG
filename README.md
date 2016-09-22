@@ -128,6 +128,20 @@ http://www.conficturaindustries.com/
 
 "SEVENTHREESIXFIVESIXFIVE" -> `0736565`
 
+Script to Enter the code:
+
+```
+var images = document.getElementById("a").childNodes;
+images[0].src = "images/0.gif";
+images[1].src = "images/7.gif";
+images[2].src = "images/3.gif";
+images[3].src = "images/6.gif";
+images[4].src = "images/5.gif";
+images[5].src = "images/6.gif";
+images[6].src = "images/4.gif";
+images[6].click();
+```
+
 [PGP Message](pgp_message)
 
 [Windows Desktop](http://i247.bxjyb2jvda.net/)
