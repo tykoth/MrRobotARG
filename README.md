@@ -128,5 +128,5 @@ http://www.conficturaindustries.com/
 
 "SEVENTHREESIXFIVESIXFIVE" -> `0736565`
 
-[PGP]()
+[PGP](pgp_message)
 
