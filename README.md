@@ -114,6 +114,9 @@ lOAD "LAND OF ECODELIA",8,1
 RUN
 ```
 
+Yellow Letters : 
+`cmVhbA`
+
 # The Hour of Enlightenment
 
 http://www.conficturaindustries.com/
