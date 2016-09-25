@@ -117,6 +117,8 @@ RUN
 Yellow Letters : 
 `cmVhbA`
 
+Leads to [CMVHBA Anagrams](http://www.defineanagrams.com/11/scrabble-definition/cmvhba)
+
 # The Hour of Enlightenment
 
 http://www.conficturaindustries.com/
