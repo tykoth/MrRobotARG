@@ -63,16 +63,6 @@ asdfgkli)Nb'(exe-)i*
 dbf\\ecasjgggjjjj
 jjjgxene
 ```
-### One Line with Spaces
-
-```
-\\:[ wwx yKLM LFMNO ASDF Q L :) EXN _*@ TKLMN LOL uNj fN wYNN rajb etc.. nyc ba na 443 lmfao qn yzz k e :( // [ ex. jpn n 32 rsqash fgpng y asdfgkli) Nb ' (exe-) i * 428x0101ni 238 ? _axa dbf \\ ec as jgggjjjj jjjgx en e
-```
-
-### One Line & Spaces Removed
-```
-\\:[wwxyKLMLFMNOASDFQL:)EXN_*@TKLMNLOLuNjfNwYNNrajbetc..nycbana443lmfaoqnyzzke:(//[ex.jpnn32rsqashfgpngyasdfgkli)Nb'(exe-)i*428x0101ni238?_axadbf\\ecasjgggjjjjjjjgxene
-```
 
 ## #th3g3ntl3man - Web IRC
 
